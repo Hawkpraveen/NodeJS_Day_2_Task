@@ -16,7 +16,7 @@ router.get('/getBookedRooms',getBookedRooms)
 
 router.get('/getCustomerRoom',getCustomerRoom);
 
-router.get('/getCustomerBookedDetails/:customer_name',getCustomerBookedDetails)
+router.get('/getCustomerBookedDetails/:customer_name',getCustomerBookedDetails);
 
 //exporting
 export default router;
