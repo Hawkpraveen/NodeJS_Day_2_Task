@@ -13,8 +13,9 @@
 ### To perfrom the CRUD operations refer the POSTMAN documentation as reference to end points.
 
 ### 🔖Endpoints
+
 ### ➡️ Create Room
-## #URL - /api/createRoom
+### URL - /api/createRoom
 ### Method - POST
 
 ### ➡️ Get All Availabel Rooms
